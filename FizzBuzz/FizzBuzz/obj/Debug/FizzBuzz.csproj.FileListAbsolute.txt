@@ -1,0 +1,5 @@
+C:\Users\Technologist\Documents\Github\KevinWeek1Solutions\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Technologist\Documents\Github\KevinWeek1Solutions\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Technologist\Documents\Github\KevinWeek1Solutions\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Technologist\Documents\Github\KevinWeek1Solutions\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Technologist\Documents\Github\KevinWeek1Solutions\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
